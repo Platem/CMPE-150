@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# -----------------------------
-# Script reads every file
-# in the actual directory 
-# and prints their even lines
-# -----------------------------
-# Kevin Romero Peces-Barba
-# CMPE - 150
-# -----------------------------
+# --------------------------- #
+#   Script reads every file   #
+#   in the actual directory   #
+# and prints their even lines #
+# --------------------------- #
+#   Kevin Romero Peces-Barba  #
+#          CMPE - 150         #
+# --------------------------- #
 
 # Get current directory
 DIR=$PWD
